@@ -8,16 +8,16 @@ module.exports = {
   description: "Contact information for Sikandar Khan.",
 
   // Site URLs.
-  baseUrl: "https://www.pankajyadav.me/", // No slash at the end.
-  shortBaseUrl: "www.pankajyadav.me", // Same as baseUrl but without http or https.
+  baseUrl: "https://www.tagglabs.ai/", // No slash at the end.
+  shortBaseUrl: "www.tagglabs.ai", // Same as baseUrl but without http or https.
 
   // Your name.
   name: "Sikandar Heyat Khan",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/Sikandar-khan/SikandarKhan.jpeg",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/Sikandar-khan/SikandarKhan.jpeg",
   },
 
   // Name pronunciation. Set to null to leave out.
@@ -31,13 +31,13 @@ module.exports = {
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/Sikandar-khan/SikandarKhan.jpeg",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/Sikandar-khan/SikandarKhan.jpeg",
   },
 
   // Links to your other websites.
