@@ -12,7 +12,7 @@ module.exports = {
   shortBaseUrl: "www.pankajyadav.me", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Sikandar Khan",
+  name: "Sikandar Heyat Khan",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -56,33 +56,12 @@ module.exports = {
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
-     {
-      name: "Personal",
-      desc: "mail@pankajyadav.me",
-      url: "mailto:mail@pankajyadav.me",
-      fa: "fas fa-envelope",
-      textColor: "text-gray-600",
-    },
-    {
-      name: "Twitter",
-      desc: "@psy_techie",
-      url: "https://twitter.com/psy_techie",
-      fa: "fab fa-twitter",
-      textColor: "text-twitter",
-    },
     {
       name: "LinkedIn",
-      desc: "@pankajsinghyadav",
-      url: "https://www.linkedin.com/in/pankajsinghyadav/",
+      desc: "@SikandarHeyatKhan",
+      url: "https://www.linkedin.com/in/sikandarphotowala/",
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
-    },
-       {
-      name: "Instagram",
-      desc: "@mud_born_lotus",
-      url: "https://www.instagram.com/mud_born_lotus/",
-      fa: "fab fa-instagram",
-      textColor: "text-instagram",
     },
     {
       name: "Save Contact",
