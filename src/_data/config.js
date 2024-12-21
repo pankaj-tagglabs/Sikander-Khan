@@ -1,11 +1,11 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Pankaj Yadav",
+  title: "Sikandar Khan",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact information for Pankaj Yadav.",
+  description: "Contact information for Sikandar Khan.",
 
   // Site URLs.
   baseUrl: "https://www.pankajyadav.me/", // No slash at the end.
