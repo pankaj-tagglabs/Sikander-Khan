@@ -12,7 +12,7 @@ module.exports = {
   shortBaseUrl: "www.pankajyadav.me", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Pankaj Yadav",
+  name: "Sikandar Khan",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "Tech Evangelist and CEO at Tagglabs",
+  tagline: "Business Development Lead at Tagglabs (UAE)",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
@@ -50,16 +50,9 @@ module.exports = {
   //     colors.
   links: [
     {
-      name: "Website",
-      desc: "pankajyadav.me",
-      url: "https://www.pankajyadav.me",
-      fa: "fas fa-globe-americas",
-      textColor: "text-website",
-    },
-    {
       name: "Work",
-      desc: "pankaj@tagglabs.in",
-      url: "mailto:pankaj@tagglabs.in",
+      desc: "sikandar@tagglabs.ai",
+      url: "mailto:sikandar@tagglabs.ai",
       fa: "fas fa-envelope",
       textColor: "text-gray-600",
     },
