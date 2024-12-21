@@ -21,7 +21,7 @@ module.exports = {
   },
 
   // Name pronunciation. Set to null to leave out.
-  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/PankajYadavSlow.mp3",
+  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/Sikandar-khan/Sikandar_audio.mp3",
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
@@ -64,8 +64,22 @@ module.exports = {
       textColor: "text-linkedin",
     },
     {
+      name: "Telegram",
+      desc: "@experientialstoryteller",
+      url: "https://t.me/experientialstoryteller",
+      fa: "fab fa-telegram",
+      textColor: "text-telegram",
+    },
+    {
+      name: "Instagram",
+      desc: "@sikandar_photowala",
+      url: "https://www.instagram.com/sikandar_photowala",
+      fa: "fab fa-instagram",
+      textColor: "text-instagram",
+    },
+    {
       name: "Save Contact",
-      url: "https://d35hr0os3yc7ki.cloudfront.net/pankajcontact.vcf",
+      url: "https://d35hr0os3yc7ki.cloudfront.net/Sikandar-khan/Sikandar_contact.vcf",
       fa: "fas fa-file-alt",
       textColor: "text-yellow-500",
     },
